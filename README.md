@@ -18,7 +18,7 @@ npm run build
 npm run build --report
 ```
 
-#效果图
-![image](https://github.com/wmui/images/blob/master/2017-05-10_132400.png)
-![iamge](https://github.com/wmui/images/blob/master/2017-05-10_132409.png)
-![iamge](https://github.com/wmui/images/blob/master/2017-05-10_132423.png)
+# 效果图
+![image](https://github.com/wmui/images/blob/master/2017-05-10_132400.png)  
+![iamge](https://github.com/wmui/images/blob/master/2017-05-10_132409.png)  
+![iamge](https://github.com/wmui/images/blob/master/2017-05-10_132423.png)  
