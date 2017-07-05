@@ -6,11 +6,11 @@
       "COMMON_VARIABLE": "true"
     },
     "env_production": {
-      "NODE_ENV": "production"
+      "NODE_ENV": "elm"
     }
   }],
   "deploy": {
-    "production": {
+    "elm": {
       "user": "wxq",
       "host": ["47.90.123.249"],
       "port": "22",
@@ -19,7 +19,7 @@
       "path": "/www/elm",
       "ssh_options": "StrictHostKeyChecking=no",
       "env": {
-        "NODE_ENV": "production"
+        "NODE_ENV": "elm"
       }
     }
   }
