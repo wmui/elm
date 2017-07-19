@@ -1,24 +1,14 @@
-# myapp
+### 开发环境和技术栈
+ - 操作系统：window 10 64位
+ - 开发工具：sublime
+ - 前端：vue + vue-router + axios
 
-> a demo with myapp
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
+### 运行项目
+1. 下载项目
+2. 安装依赖 `npm install`
+3. 启动项目 `npm run dev`
 
 # 效果图
-![image](https://github.com/wmui/images/blob/master/2017-05-10_132400.png)  
-![iamge](https://github.com/wmui/images/blob/master/2017-05-10_132409.png)  
-![iamge](https://github.com/wmui/images/blob/master/2017-05-10_132423.png)  
+![image](https://github.com/wmui/vue-elm/blob/master/example/preview/01.png)  
+![iamge](https://github.com/wmui/vue-elm/blob/master/example/preview/02.png)  
+![iamge](https://github.com/wmui/vue-elm/blob/master/example/preview/03.png)  
