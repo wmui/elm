@@ -3,7 +3,6 @@
 import Vue from 'vue';
 import VueRouter from 'vue-router';
 import VueResource from 'vue-resource';
-import appData from '../../data.json';
 // 引入自定义组件
 import App from './App.vue';
 import goods from './components/goods/goods.vue';
