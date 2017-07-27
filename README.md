@@ -1,3 +1,4 @@
+https://travis-ci.org/wmui/vue-elm.svg?branch=master
 ### 开发环境和技术栈
  - 操作系统：window 10 64位
  - 开发工具：sublime
@@ -7,6 +8,7 @@
 1. 下载项目
 2. 安装依赖 `npm install`
 3. 启动项目 `npm run dev`
+4. 访问`http://localhost:8082`
 
 # 效果图
 ![image](https://github.com/wmui/vue-elm/blob/master/example/preview/01.png)  
