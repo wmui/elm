@@ -1,10 +1,11 @@
 language: node_js
 node_js:
-    - "8"
+    - "7"
+before_install:
+    - "npm config set spin false"
+    - "npm install -g npm@^7"
 install:
-    - npm install -g npm@latest
-    - npm install -g cnpm --registry=https://registry.npm.taobao.org
-    - cnpm install
+    - npm install
 script:
     - npm run build
     - npm run start
