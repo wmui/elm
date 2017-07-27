@@ -1,4 +1,4 @@
-https://travis-ci.org/wmui/vue-elm.svg?branch=master
+![](https://travis-ci.org/wmui/vue-elm.svg?branch=master)
 ### 开发环境和技术栈
  - 操作系统：window 10 64位
  - 开发工具：sublime
