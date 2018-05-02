@@ -1,8 +1,5 @@
 <a href="https://travis-ci.org/wmui/vue-elm"><img src="https://travis-ci.org/wmui/vue-elm.svg?branch=master" alt="Build Status"></a>
 
-### 预览
-![image](https://github.com/wmui/vue-elm/blob/master/example/preview/elm.png) 
-
 ### 开发环境和技术栈
  - 操作系统：window 10 64位
  - 开发工具：sublime
